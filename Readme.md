@@ -2,14 +2,14 @@
 
 ## ✒️ Authors and Affiliations
 
-### 👩‍🔬 Author
+### 🧑‍🔬 Author
 **Jussif Abularach Arnez**    
 🏛️ *Sidia Institute of Science and Technology*  
 📍 *Manaus, Brazil*  
 ✉️ jussif.arnez@sidia.com    
 🔗 [ORCID: 0000-0002-2786-5237]
 
-### 👨‍🔬 Co-Authors
+### 👨‍🔬👩‍🔬 Co-Authors
 **Rafael M. Ribeiro**  
 🏛️ *Sidia Institute of Science and Technology*  
 📍 *Manaus, Brazil*  
