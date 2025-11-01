@@ -40,9 +40,10 @@
 ✉️ gidy.navarro@sidia.com  
 🔗 [ORCID: 0000-0001-7937-8409]
 
-
+---
 ## 📃 Info. 
 
 🏛️ **Venue:** *IEEE Latin America Transactions* (journal)  
 📦 **Data:** ~800 MB split into compressed archives (must be decompressed before running)  
 🐍 **Code:** main Python script for preprocessing, analysis, and plotting
+---
