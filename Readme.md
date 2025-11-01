@@ -44,6 +44,8 @@
 ## 📃 Info. 
 
 🏛️ **Venue:** *IEEE Latin America Transactions* (journal)  
+  
 📦 **Data:** ~800 MB split into compressed archives (must be decompressed before running)  
-🐍 **Code:** main Python script for preprocessing, analysis, and plotting
+
+🐍 **Code:** main Python script for preprocessing, analysis, and plotting  
 ---
