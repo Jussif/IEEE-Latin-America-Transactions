@@ -5,8 +5,8 @@
 ### 👩‍🔬 Author
 **Jussif Abularach Arnez**    
 🏛️ *Sidia Institute of Science and Technology*  
-📍 *Manaus, Brazil*
-✉️ jussif.arnez@sidia.com  
+📍 *Manaus, Brazil*  
+✉️ jussif.arnez@sidia.com    
 🔗 [ORCID: 0000-0000-0000-0000]
 
 ### 👨‍🔬 Co-Authors
