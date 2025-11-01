@@ -12,7 +12,7 @@
 ### 👨‍🔬 Co-Authors
 **Rafael M. Ribeiro**  
 🏛️ *Sidia Institute of Science and Technology*  
-📍 *Manaus, Brazil*
+📍 *Manaus, Brazil*  
 ✉️ rafael.ribeiro@sidia.com  
 🔗 [ORCID: 0009-0009-1021-9501]
 
