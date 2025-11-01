@@ -18,25 +18,25 @@
 
 **Janislley O. De Sousa**  
 🏛️ *Sidia Institute of Science and Technology*  
-📍 *Manaus, Brazil*
+📍 *Manaus, Brazil*  
 ✉️ janislley.sousa@sidia.com  
 🔗 [ORCID: 0000-0000-0000-0000]
 
 **Maria Gabriela Lima Damasceno**  
 🏛️ *Sidia Institute of Science and Technology*  
-📍 *Manaus, Brazil*
+📍 *Manaus, Brazil*  
 ✉️ maria.lima@sidia.com  
 🔗 [ORCID: 0000-0000-0000-0000]
 
 **Bruno S. Da Silva**  
 🏛️ *Sidia Institute of Science and Technology*  
-📍 *Manaus, Brazil*
+📍 *Manaus, Brazil*  
 ✉️ bruno.satiro@sidia.com  
 🔗 [ORCID: 0000-0000-0000-0000]
 
 **Gidy C. F. Navarro**  
 🏛️ *Sidia Institute of Science and Technology*  
-📍 *Manaus, Brazil*
+📍 *Manaus, Brazil*  
 ✉️ gidy.navarro@sidia.com  
 🔗 [ORCID: 0000-0000-0000-0000]
 ---
