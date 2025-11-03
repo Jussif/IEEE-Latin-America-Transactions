@@ -73,3 +73,8 @@
 ## 💻 Requirements  
 - Python 3.13.7
 - Review the requirement.txt file for libraries and dependencies.
+
+---
+## 📧 Contact  
+For questions:
+jussif.arnez@sidia.com 
