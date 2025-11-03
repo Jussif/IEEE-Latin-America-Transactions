@@ -56,7 +56,8 @@
 - Then, decompressed the file and you will be able to see five (5) folders that contains data.
 - The content of each folder is explained in the table below.
 - Use the Python script to plot a combination of number of characters and smartphone models, e.g., in 'measures' folder, for S918B, swipe method and 79 characters.
-- ⚠️ Pay attention, you should update the folder path on the Python 🐍 script.
+
+⚠️ Pay attention, you should update the folder path on the Python 🐍 script according to your local folder path.
 
 | Column 1: Name | Column 2: Description | Column 3: Mode |
 |---|---|---|
