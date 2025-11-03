@@ -72,7 +72,7 @@
 ---
 ## 💻 Requirements  
 - Python 3.13.7
-- Review the requirement.txt file for libraries and dependencies.
+- Review the requirements.txt file for libraries and dependencies.
 
 ---
 ## 📧 Contact  
