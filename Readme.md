@@ -73,6 +73,7 @@
 
 ---
 ## 💻 Requirements  
+- 7zip software used to decompress files.
 - Python 3.13.7
 - Review the requirements.txt file for libraries and dependencies.
 
