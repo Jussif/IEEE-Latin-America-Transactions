@@ -48,3 +48,15 @@
 📦 **Data:** ~800 MB split into compressed archives (must be decompressed before running)  
 
 🐍 **Code:** main Python script for preprocessing, analysis, and plotting  
+
+---
+## 📂 Folder.  
+
+| Column 1: Name | Column 2: Description | Column 3: Possible Content | Column 4: Mode |
+|---|---|---|---|
+| S918B_normal |  Likely a folder containing default or standard images/data. | Standard images, possibly screenshots or original assets. | Normal/Light Mode |
+| S918B_dark_mode | Folder with images/data optimized for dark mode. | Images/assets designed to be viewed with a dark background. | Dark Mode |
+| grafico editado |  "Edited graph" - Folder likely contains modified graph images. |  Graph images that have been altered/edited. |  Unknown |
+| A146M_normal |  Likely a folder containing default/standard images/data. | Standard images, possibly screenshots or original assets. | Normal/Light Mode |
+| A146M_dark_mode | Folder with images/data optimized for dark mode. | Images/assets designed to be viewed with a dark background. | Dark Mode |
+
