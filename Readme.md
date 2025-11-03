@@ -49,6 +49,8 @@
 
 🐍 **Code:** main Python script for preprocessing, analysis, and plotting  
 
+📎**Requirements.txt** A text file used that lists all the dependencies and their specific versions required for the project to run.
+
 ---
 ## 📂 Folder.  
 
@@ -67,3 +69,7 @@
 | A146M_normal |  Contains data of power consumption for normal screen mode for for A146M model. |Light Display Mode |
 | A146M_dark_mode |Contains data of power consumption for dark screen mode for for A146M model. | Dark Display Mode |
 
+---
+## 💻 Requirements  
+- Python 3.13.7
+- Review the requirement.txt file for libraries and dependencies.
