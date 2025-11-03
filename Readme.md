@@ -52,6 +52,11 @@
 ---
 ## 📂 Folder.  
 
+- First, you should download the zip file on your notebook.
+- Then, decompressed the file and you will be able to see five (5) folders that contains data.
+- Each content of the fodlers are explained in the table below.
+- Use the Python script to plot the selected combination of number of characters and smartphone models, e.g., in 'measures' folder, for S918B, swipe method and 79 characters.
+
 | Column 1: Name | Column 2: Description | Column 3: Mode |
 |---|---|---|
 | S918B_normal |  Contains data of power consumption for normal screen mode for S918B model. | Light Display Mode |
