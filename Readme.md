@@ -61,7 +61,10 @@
 - The content of each folder is explained in the table below.
 - Use the Python script to plot a combination of number of characters and smartphone models, e.g., in 'measures' folder, for S918B, swipe method and 79 characters.
 
-⚠️ Pay attention, you should update the folder path on the Python 🐍 script according to your local folder path.
+⚠️ Pay attention, you should update the folder path on the Python 🐍 script according to your local folder path.  
+
+🔴 On the script,replace this path with your local path **D:\\Users\\jussif.arnez\\Documents\\2021_IMS\\my_documents\\my_Research\\my_plotting\\Display_Power\\Reteste\\**  
+
 
 | Column 1: Name | Column 2: Description | Column 3: Mode |
 |---|---|---|
@@ -76,6 +79,7 @@
 - 7zip software used to decompress files.
 - Python 3.13.7
 - Review the requirements.txt file for libraries and dependencies.
+- To install the libraries digit the following command on the shell terminal: **pip install -r requirements.txt**
 
 ---
 ## 📧 Contact  
